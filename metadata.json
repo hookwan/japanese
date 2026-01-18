@@ -1,0 +1,7 @@
+{
+  "name": "わたしの日本語学習帳",
+  "description": "A minimalist, aesthetic Japanese learning companion powered by Gemini AI. Features automated dictionary management, flashcards, and AI-driven exercises.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
